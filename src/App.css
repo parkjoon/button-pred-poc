@@ -1,0 +1,39 @@
+html {
+  background-color: #282c34;
+  color: white;
+}
+
+.App {
+  position: relative;
+  height: 500px;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  display: block;
+}
+
+.buttonA {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.buttonB {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.buttonC {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.buttonD {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
